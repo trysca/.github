@@ -92,5 +92,7 @@
   <a href="https://twitter.com/tryscabot" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://svgshare.com/i/sp1.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/KgyT9VKM86" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://svgshare.com/i/soe.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/application-directory/859647964230582284" target="_blank"><img alt="Invite" title="Invite" height="32" width="32" src="https://i.imgur.com/ZISuhco.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.patreon.com/trysca" target="_blank"><img alt="Premium" title="Premium" height="35" width="35" src="https://i.imgur.com/YPDf6g8.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/trysca" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://svgshare.com/i/t80.svg"/></a>
 </p>
+https://i.imgur.com/YPDf6g8.png
