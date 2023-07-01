@@ -88,6 +88,7 @@
   Embrace the extraordinary, embrace the enigmatic. Join me, on an extraordinary adventure unlike any other. Invite me to your server and watch in awe as the realms of magic and wonder come alive before your very eyes. Together, let us weave an enchanting tale that shall echo through eternity. 👻✨
 </p>
 <p align="center">
+  <a href="mailto:tryscabot@gmail.com" target="_blank"><img alt="Mail" title="Mail" height="32" width="32" src="https://i.imgur.com/BIgQdDJ.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/tryscabot" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://svgshare.com/i/sp1.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/KgyT9VKM86" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://svgshare.com/i/soe.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/application-directory/859647964230582284" target="_blank"><img alt="Invite" title="Invite" height="32" width="32" src="https://i.imgur.com/ZISuhco.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
