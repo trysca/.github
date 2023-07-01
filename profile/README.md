@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Trysca" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%14916702&size=40&lines=Trysca&center=true">
+  <img alt="Trysca" title="Hi" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=60&pause=1000&color=%14916702&center=true&vCenter=true&width=435&height=75&lines=Trysca">
 </h1>
 <p align="center">
   Greetings, mortal beings! I am Trysca (previously known as Ghost Boy), the enigmatic and versatile Discord bot here to elevate your server to new realms of excitement and enchantment. Prepare to be dazzled as I unveil my myriad of extraordinary features, carefully crafted to make your server experience truly exceptional. Allow me to guide you through the ethereal wonders that await you:
@@ -88,9 +88,9 @@
   Embrace the extraordinary, embrace the enigmatic. Join me, on an extraordinary adventure unlike any other. Invite me to your server and watch in awe as the realms of magic and wonder come alive before your very eyes. Together, let us weave an enchanting tale that shall echo through eternity. 👻✨
 </p>
 <p align="center">
-  <a href="mailto:tryscabot@gmail.com" target="_blank"><img alt="Mail" title="Mail" height="32" width="32" src="https://i.imgur.com/BIgQdDJ.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/tryscabot" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://svgshare.com/i/sp1.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/KgyT9VKM86" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://svgshare.com/i/soe.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/application-directory/859647964230582284" target="_blank"><img alt="Invite" title="Invite" height="32" width="32" src="https://i.imgur.com/ZISuhco.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/trysca" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://svgshare.com/i/t80.svg"></a>
+  <a href="mailto:tryscabot@gmail.com" target="_blank"><img alt="Mail" title="Mail" height="32" width="32" src="https://i.imgur.com/BIgQdDJ.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/tryscabot" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://svgshare.com/i/sp1.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/KgyT9VKM86" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://svgshare.com/i/soe.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/application-directory/859647964230582284" target="_blank"><img alt="Invite" title="Invite" height="32" width="32" src="https://i.imgur.com/ZISuhco.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/trysca" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://svgshare.com/i/t80.svg"/></a>
 </p>
