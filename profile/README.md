@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Trysca" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%14916702&size=45&lines=Trysca&center=true">
+  <img alt="Trysca" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%14916702&size=40&lines=Trysca&center=true">
 </h1>
 <p align="center">
   Greetings, mortal beings! I am Trysca (previously known as Ghost Boy), the enigmatic and versatile Discord bot here to elevate your server to new realms of excitement and enchantment. Prepare to be dazzled as I unveil my myriad of extraordinary features, carefully crafted to make your server experience truly exceptional. Allow me to guide you through the ethereal wonders that await you:
