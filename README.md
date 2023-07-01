@@ -82,9 +82,8 @@
 <p>
   Seek knowledge, and I shall provide! With my arsenal of information commands, you shall have the power to glean details about your server's members, channels, and various statistics. Stay informed, for knowledge is the key to enlightenment.
 </p>
-<h6>
-  But wait, there's more! I offer not only extraordinary features but also unwavering support to guide you through your mystical journey. My ethereal team is dedicated to answering your queries and ensuring your voyage with Trysca remains smooth and enchanting.
-</h6>
+
+   **But wait, there's more! I offer not only extraordinary features but also unwavering support to guide you through your mystical journey. My ethereal team is dedicated to answering your queries and ensuring your voyage with Trysca remains smooth and enchanting.**
 <p>
   Embrace the extraordinary, embrace the enigmatic. Join me, on an extraordinary adventure unlike any other. Invite me to your server and watch in awe as the realms of magic and wonder come alive before your very eyes. Together, let us weave an enchanting tale that shall echo through eternity. 👻✨
 </p>
