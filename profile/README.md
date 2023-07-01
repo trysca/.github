@@ -95,4 +95,3 @@
   <a href="https://www.patreon.com/trysca" target="_blank"><img alt="Premium" title="Premium" height="35" width="35" src="https://i.imgur.com/YPDf6g8.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/trysca" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://svgshare.com/i/t80.svg"/></a>
 </p>
-https://i.imgur.com/YPDf6g8.png
