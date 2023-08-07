@@ -3,6 +3,9 @@
     <img alt="Trysca" title="Trysca" height="80" width="80" src="https://i.imgur.com/ZISuhco.png"><img alt="Trysca" title="Trysca" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=60&pause=1000&color=%14916702&center=true&vCenter=true&width=300&height=75&lines=Trysca">
   </a>
 </h1>
+<p align="center" href="https://discord.com/application-directory/859647964230582284">
+  <img src="https://top.gg/api/widget/servers/859647964230582284.svg">
+</p>
 <p align="center">
   Greetings, mortal beings! I am Trysca (previously known as Ghost Boy), the enigmatic and versatile Discord bot here to elevate your server to new realms of excitement and enchantment. Prepare to be dazzled as I unveil my myriad of extraordinary features, carefully crafted to make your server experience truly exceptional. Allow me to guide you through the ethereal wonders that await you:
 </p>
